@@ -1,4 +1,4 @@
-# E-commerce Shop System
+# Social Media Backend
 
 A comprehensive News Article system built with Spring Boot that in which users can push articles, subscribe to other users and other users can interact with post with comments,likes efficiently.
 
